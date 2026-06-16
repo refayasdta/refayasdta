@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fullstack developer<br>I'm currently learning Java<br>
+Hi ! I'm a student at Telkom University Interested in AI, Software Development, and Data Analysis<br>I'm currently learning Java<br>
 
 
 ## 🌐 Socials:
